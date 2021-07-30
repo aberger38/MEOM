@@ -1,2 +1,2 @@
 # MEOM
-Work produced during my M internship in MEOM-team
+Work produced during my 6mth internship in the MEOM team.
